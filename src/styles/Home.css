@@ -21,3 +21,11 @@
     text-align: center;
     width: 30%;
 }
+.course h3{
+    background-color: rgb(210, 203, 203);
+    color: #333;
+}
+.course p{
+    background-color: rgb(210, 203, 203);
+    color: #666;
+}

@@ -5,7 +5,7 @@ function Home() {
   return (
     <div>
       <section id="home" class="hero">
-        <h1>Welcome to EduHub</h1>
+        <h1>Welcome to LearnHub</h1>
         <p>Your gateway to quality education and learning resources.</p>
     </section>
     
