@@ -1,0 +1,23 @@
+.hero {
+    text-align: center;
+    padding: 4rem;
+}
+.hero p{
+    margin-top: 20px;
+}
+.course-list {
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+    gap: 20px;
+}
+#courses h2{
+    text-align: center;
+}
+.course {
+    background-color: rgb(210, 203, 203);
+    padding: 1.5rem;
+    border-radius: 5px;
+    text-align: center;
+    width: 30%;
+}

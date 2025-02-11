@@ -1,0 +1,44 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 10px;
+    background-color: rgb(210, 203, 203); 
+}
+
+.container1 img {
+    width: 80px;
+}
+
+.container1 h1 {
+    font-size: 24px;
+    margin: 0;
+    color: black;
+    background-color: rgb(210, 203, 203); 
+}
+.container1 {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Spacing between logo and h1 */
+    background-color: rgb(210, 203, 203); 
+}
+
+.nav ul {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(210, 203, 203); 
+}
+
+.nav ul li {
+    color: black;
+    cursor: pointer;
+    font-size: 22px;
+    background-color: rgb(210, 203, 203); 
+}
+
+.nav ul li:hover {
+    text-decoration: underline;
+}
